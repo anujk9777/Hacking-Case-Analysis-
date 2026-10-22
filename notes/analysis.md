@@ -1,3 +1,6 @@
+File Name : nitroba.pcap
+Size : 54865 kb
+
 SHA256 : 2b77a9eaefc1d6af163d1ba793c96dbccacb04e6befdf1a0b01f8c67553ec2fb
 Packet Count : 94410
 
