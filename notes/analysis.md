@@ -12,10 +12,10 @@ Last packet : 2008-07-22 11:43:47
 Of 94,410 packets, 95.7% are IPv4 and 88.0% of all packets are TCP.
 Top application protocols by packets: HTTP 10.6%, DNS 3.1%, SSDP 2.4%, TLS 1.5%, ARP 4.3% (link layer).
 
-## Top 10 IPv4 endpoints (by packets)
+### Top 10 IPv4 Endpoints (by Packets)
 
-| IP | Packets | Bytes | Internal / Public |
-
+| IP Address | Packets | Bytes | Internal / Public |
+|---|---:|---:|---|
 | 192.168.15.4 | 73,197 | 44,739,132 | Internal |
 | 192.168.1.64 | 14,902 | 8,852,073 | Internal |
 | 69.22.167.215 | 6,513 | 4,136,133 | Public |
